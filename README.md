@@ -18,4 +18,4 @@ This project has been documented in a report and a video demonstrating how the p
 
 ## Game 
 
-Screenshot.png
+![Game Application Screen](Screenshot.png)
