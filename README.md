@@ -18,4 +18,4 @@ This project has been documented in a report and a video demonstrating how the p
 
 ## Game 
 
-[Game Application Screen](https://github.com/AzkadwptrA/AlgoProg_FinalProject_Azka/blob/main/Screenshot.png)https://github.com/AzkadwptrA/AlgoProg_FinalProject_Azka/blob/main/Screenshot.png
+Screenshot.png
